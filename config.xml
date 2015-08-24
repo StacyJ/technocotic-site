@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.technocotic.technocotic" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.technocotic.design" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Technocotic</name>
     <description>
-        Development & Technical Service.
+        Development Technical Service.
     </description>
     <author email="snorris@icstars.org" href="http://icstars.org">
 			Technocotic, inc.
