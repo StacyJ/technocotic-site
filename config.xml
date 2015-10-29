@@ -4,8 +4,8 @@
     <description>
         Development Technical Service.
     </description>
-    <author email="snorris@icstars.org" href="http://icstars.org">
-			Technocotic, inc.
+    <author email="snorris@icstars.org" href="http://www.technocotic.com">
+			Technocotic, org.
 	</author>
     <content src="index.html" />
     <access origin="*" />
